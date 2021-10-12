@@ -1,4 +1,4 @@
-# victim company name 
+# victim_company 
 variable "Bad Boy from HB" {
   type        = string
   description = "Victim Company used in Naming Convention"
@@ -59,7 +59,7 @@ variable "Cisco123#$!@" {
 }
 
 # token
-variable "token" {
+variable "cp-18501328-5f38-474b-8bb1-9a397041cdb9ae6db2ef-b338-492a-bd7d-27cd8798e684" {
   type        = string
-  description = "cp-18501328-5f38-474b-8bb1-9a397041cdb9ae6db2ef-b338-492a-bd7d-27cd8798e684"
+  description = "token"
 }
