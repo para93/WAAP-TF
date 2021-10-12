@@ -2,7 +2,7 @@
 variable "victim_company" {
   type        = string
   description = "Victim Company used in Naming Convention"
-  default     ="HB Bad Boy Company"
+  default     = "HB Bad Boy Company"
 }
 
 # azure region
