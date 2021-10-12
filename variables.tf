@@ -2,6 +2,7 @@
 variable "victim_company" {
   type        = string
   description = "Victim Company used in Naming Convention"
+  default     ="HB Bad Boy Company"
 }
 
 # azure region
@@ -50,16 +51,19 @@ variable "vulnvm-name" {
 variable "username" {
   type        = string
   description = "Username"
+  default     = "Badboy"
 }
 
 # password
 variable "password" {
   type        = string
   description = "Password"
+  default     = "Cisco123!@"
 }
 
 # token
 variable "token" {
   type        = string
   description = "token"
+  default     = "cp-18501328-5f38-474b-8bb1-9a397041cdb9ae6db2ef-b338-492a-bd7d-27cd8798e684"
 }
