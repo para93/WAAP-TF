@@ -1,5 +1,5 @@
-# victim_company 
-variable "Bad Boy from HB" {
+# victim company name 
+variable "victim_company" {
   type        = string
   description = "Victim Company used in Naming Convention"
 }
@@ -47,13 +47,13 @@ variable "vulnvm-name" {
 }
 
 # username
-variable "Badboy" {
+variable "username" {
   type        = string
   description = "Username"
 }
 
 # password
-variable "Cisco123#$!@" {
+variable "password" {
   type        = string
   description = "Password"
 }
