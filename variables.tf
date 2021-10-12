@@ -59,7 +59,7 @@ variable "password" {
 }
 
 # token
-variable "cp-18501328-5f38-474b-8bb1-9a397041cdb9ae6db2ef-b338-492a-bd7d-27cd8798e684" {
+variable "token" {
   type        = string
   description = "token"
 }
