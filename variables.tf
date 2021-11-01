@@ -65,5 +65,5 @@ variable "password" {
 variable "token" {
   type        = string
   description = "token"
-  default     = "cp-18501328-5f38-474b-8bb1-9a397041cdb9ae6db2ef-b338-492a-bd7d-27cd8798e684"
+  default     = "cp-c6d3a6f7-9816-4f30-87a7-210bd01ef843cad12ee3-3b04-404b-9bc8-3a0050381643"
 }
