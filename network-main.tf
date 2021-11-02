@@ -1,6 +1,6 @@
 # Create a resource group for victim network
 resource "azurerm_resource_group" "victim-network-rg" {
-  name     = "${var.victim_company}-rg"
+  name     = ${var.victim_company}-rg
   location = var.location
   tags = {
     application = var.victim_company
