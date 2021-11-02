@@ -2,7 +2,6 @@
 variable "victim_company" {
   type        = string
   description = "Victim Company used in Naming Convention"
-  default     = "HB"
 }
 
 # azure region
@@ -64,6 +63,5 @@ variable "password" {
 # token
 variable "token" {
   type        = string
-  description = "token"
-  default     = "cp-c6d3a6f7-9816-4f30-87a7-210bd01ef843cad12ee3-3b04-404b-9bc8-3a0050381643"
+  description = "WAAP token"
 }
