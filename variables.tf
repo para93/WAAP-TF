@@ -50,14 +50,14 @@ variable "vulnvm-name" {
 variable "username" {
   type        = string
   description = "Username"
-  default     = "Badboy"
+  default     = "devops1"
 }
 
 # password
 variable "password" {
   type        = string
   description = "Password"
-  default     = "Cisco123!@"
+  default     = "Vpn123vpn123!"
 }
 
 # token
